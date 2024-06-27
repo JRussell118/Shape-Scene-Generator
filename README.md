@@ -7,7 +7,6 @@ separated window.
 ###### This project was assigned while attending University of Maryland Global Campus (UMGC)
 ---
 
-><h1>Building Secure Python Applications</h1>
-><h2>SDEV 300</h2>
-><p>A hands-on study of best practices and strategies for building secure Python desktop and web applications. The objective is to design and build Python applications that are resistant to common security threats. Topics include syntax, data structures, style guides, data munging, web application frameworks, and the use of secure coding tools and processes to guard against application vulnerabilities.</p>
-
+><h1>Advanced Programming Langauges</h1>
+><h2>CMSC 300</h2>
+><p>A comparative study of programming languages. The aim is to write safe and secure computer programs. Topics include the syntax and semantics of programming languages and run-time support required for various programming languages. Programming projects using selected languages are required.</p>
